@@ -98,15 +98,18 @@ def display_state_data(state_code):
             st.warning(f"No data found for {state_code}")
 
 def download_state_data(state_code):
-    engine = create_engine_with_cx_oracle()
+def download_state_data(state_code):
     try:
         logging.info(f"Downloading data for state code: {state_code}")
-        df = pd.read_sql_query(DOWNLOAD_QUERY, engine, params={'state_code': state_code})
+        df = fetch_data(DOWNLOAD_QUERY, state_code)
         if df is not None:
-            df.to_csv(f"{state_code}_data.csv", index=False, mode='w')
-            st.success(f"Data downloaded for {state_code}")
-            st.table(df.head(100))
-            logging.info(f"Data downloaded for state code: {state_code}")
+            try:
+                df.to_csv(f"{state_code}_data.csv", index=False)
+                st.success(f"Data downloaded for {state_code}")
+                logging.info(f"Data downloaded for state code: {state_code}")
+                st.table(df.head(100))
+            except PermissionError:
+                st.error(f"Permission denied when trying to write to {state_code}_data.csv")
         else:
             st.warning(f"No data found for {state_code}")
     except cx_Oracle.Error as error:
