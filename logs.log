@@ -1,0 +1,170 @@
+2024-03-11 11:12:03,894 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:12:03,894 - INFO - Application started at 2024-03-11 11:12:03.894762
+2024-03-11 11:12:04,255 - INFO - Application exited at 2024-03-11 11:12:04.255002
+2024-03-11 11:12:04,255 - INFO - Application execution time: 0:00:00.360240
+2024-03-11 11:12:08,653 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:12:08,653 - INFO - Application started at 2024-03-11 11:12:08.653522
+2024-03-11 11:12:08,653 - INFO - Application exited at 2024-03-11 11:12:08.653522
+2024-03-11 11:12:08,653 - INFO - Application execution time: 0:00:00
+2024-03-11 11:12:08,703 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:12:08,703 - INFO - Application started at 2024-03-11 11:12:08.703048
+2024-03-11 11:12:08,703 - INFO - Display button clicked for state code: GA
+2024-03-11 11:12:08,747 - INFO - Executing SQL query for state code: GA
+2024-03-11 11:20:27,502 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:20:27,502 - INFO - Application started at 2024-03-11 11:20:27.502506
+2024-03-11 11:20:27,502 - INFO - Application exited at 2024-03-11 11:20:27.502506
+2024-03-11 11:20:27,502 - INFO - Application execution time: 0:00:00
+2024-03-11 11:20:35,118 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:20:35,118 - INFO - Application started at 2024-03-11 11:20:35.118586
+2024-03-11 11:20:35,118 - INFO - Application exited at 2024-03-11 11:20:35.118586
+2024-03-11 11:20:35,118 - INFO - Application execution time: 0:00:00
+2024-03-11 11:20:35,181 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:20:35,181 - INFO - Application started at 2024-03-11 11:20:35.181555
+2024-03-11 11:20:35,181 - INFO - Display button clicked for state code: GA
+2024-03-11 11:20:35,228 - INFO - Executing SQL query for state code: GA
+2024-03-11 11:23:30,928 - INFO - Executing total_bans query for state code: GA
+2024-03-11 11:24:21,227 - INFO - Total bans data fetched for state code: GA
+2024-03-11 11:24:21,665 - INFO - Total bans displayed for state code: GA
+2024-03-11 11:24:21,665 - INFO - Data displayed for state code: GA
+2024-03-11 11:24:21,665 - INFO - Application exited at 2024-03-11 11:24:21.665165
+2024-03-11 11:24:21,665 - INFO - Application execution time: 0:03:46.483610
+2024-03-11 11:24:59,579 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:24:59,579 - INFO - Application started at 2024-03-11 11:24:59.579377
+2024-03-11 11:24:59,579 - INFO - Application exited at 2024-03-11 11:24:59.579377
+2024-03-11 11:24:59,579 - INFO - Application execution time: 0:00:00
+2024-03-11 11:24:59,626 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:24:59,626 - INFO - Application started at 2024-03-11 11:24:59.626364
+2024-03-11 11:24:59,626 - INFO - Display button clicked for state code: GA
+2024-03-11 11:24:59,626 - INFO - Executing SQL query for state code: GA
+2024-03-11 11:25:15,931 - INFO - Executing total_bans query for state code: GA
+2024-03-11 11:26:04,272 - INFO - Total bans data fetched for state code: GA
+2024-03-11 11:26:04,272 - INFO - Total bans displayed for state code: GA
+2024-03-11 11:26:04,272 - INFO - Data displayed for state code: GA
+2024-03-11 11:26:04,272 - INFO - Display button clicked for state code: AL
+2024-03-11 11:26:04,272 - INFO - Executing SQL query for state code: AL
+2024-03-11 11:26:16,295 - INFO - Executing total_bans query for state code: AL
+2024-03-11 11:27:11,233 - INFO - Total bans data fetched for state code: AL
+2024-03-11 11:27:11,239 - INFO - Total bans displayed for state code: AL
+2024-03-11 11:27:11,239 - INFO - Data displayed for state code: AL
+2024-03-11 11:27:11,243 - INFO - Display button clicked for state code: MI
+2024-03-11 11:27:11,245 - INFO - Executing SQL query for state code: MI
+2024-03-11 11:27:24,455 - INFO - Executing total_bans query for state code: MI
+2024-03-11 11:28:15,471 - INFO - Total bans data fetched for state code: MI
+2024-03-11 11:28:15,476 - INFO - Total bans displayed for state code: MI
+2024-03-11 11:28:15,476 - INFO - Data displayed for state code: MI
+2024-03-11 11:28:15,476 - INFO - Application exited at 2024-03-11 11:28:15.476091
+2024-03-11 11:28:15,476 - INFO - Application execution time: 0:03:15.849727
+2024-03-11 11:32:06,548 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:32:06,548 - INFO - Application started at 2024-03-11 11:32:06.548201
+2024-03-11 11:32:06,548 - INFO - Application exited at 2024-03-11 11:32:06.548201
+2024-03-11 11:32:06,548 - INFO - Application execution time: 0:00:00
+2024-03-11 11:32:12,911 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:32:12,911 - INFO - Application started at 2024-03-11 11:32:12.911386
+2024-03-11 11:32:12,911 - INFO - Application exited at 2024-03-11 11:32:12.911386
+2024-03-11 11:32:12,911 - INFO - Application execution time: 0:00:00
+2024-03-11 11:32:12,974 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:32:12,974 - INFO - Application started at 2024-03-11 11:32:12.974455
+2024-03-11 11:32:12,990 - INFO - Display button clicked for state code: CA
+2024-03-11 11:32:12,990 - INFO - Executing SQL query for state code: CA
+2024-03-11 11:32:26,400 - INFO - Executing total_bans query for state code: CA
+2024-03-11 11:33:39,797 - INFO - Total bans data fetched for state code: CA
+2024-03-11 11:33:39,797 - INFO - Total bans displayed for state code: CA
+2024-03-11 11:33:39,797 - INFO - Data displayed for state code: CA
+2024-03-11 11:33:39,797 - INFO - Application exited at 2024-03-11 11:33:39.797052
+2024-03-11 11:33:39,797 - INFO - Application execution time: 0:01:26.822597
+2024-03-11 11:35:02,973 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:35:02,973 - INFO - Application started at 2024-03-11 11:35:02.973527
+2024-03-11 11:35:02,973 - INFO - Application exited at 2024-03-11 11:35:02.973527
+2024-03-11 11:35:02,989 - INFO - Application execution time: 0:00:00
+2024-03-11 11:35:10,159 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:35:10,159 - INFO - Application started at 2024-03-11 11:35:10.159819
+2024-03-11 11:35:10,175 - INFO - Application exited at 2024-03-11 11:35:10.175855
+2024-03-11 11:35:10,175 - INFO - Application execution time: 0:00:00.016036
+2024-03-11 11:35:10,273 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:35:10,273 - INFO - Application started at 2024-03-11 11:35:10.273979
+2024-03-11 11:35:10,273 - INFO - Display button clicked for state code: CA
+2024-03-11 11:35:10,285 - INFO - Executing SQL query for state code: CA
+2024-03-11 11:35:24,009 - INFO - Executing total_bans query for state code: CA
+2024-03-11 11:36:11,928 - INFO - Total bans data fetched for state code: CA
+2024-03-11 11:36:11,928 - INFO - Total bans displayed for state code: CA
+2024-03-11 11:36:11,928 - INFO - Data displayed for state code: CA
+2024-03-11 11:36:11,928 - INFO - Application exited at 2024-03-11 11:36:11.928036
+2024-03-11 11:36:11,928 - INFO - Application execution time: 0:01:01.654057
+2024-03-11 11:37:40,288 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:37:40,288 - INFO - Application started at 2024-03-11 11:37:40.288455
+2024-03-11 11:37:40,288 - INFO - Download button clicked for state code: CA
+2024-03-11 11:37:40,288 - INFO - Executing total_bans query for state code: CA
+2024-03-11 11:38:26,881 - INFO - Total bans data fetched for state code: CA
+2024-03-11 11:38:26,881 - INFO - Downloading data for state code: CA
+2024-03-11 11:46:13,906 - INFO - Data downloaded for state code: CA
+2024-03-11 11:46:13,906 - INFO - Application exited at 2024-03-11 11:46:13.906688
+2024-03-11 11:46:13,906 - INFO - Application execution time: 0:08:33.618233
+2024-03-11 11:57:23,198 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:57:23,198 - INFO - Application started at 2024-03-11 11:57:23.198337
+2024-03-11 11:57:23,198 - INFO - Application exited at 2024-03-11 11:57:23.198337
+2024-03-11 11:57:23,213 - INFO - Application execution time: 0:00:00
+2024-03-11 11:57:27,198 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:57:27,198 - INFO - Application started at 2024-03-11 11:57:27.198671
+2024-03-11 11:57:27,198 - INFO - Application exited at 2024-03-11 11:57:27.198671
+2024-03-11 11:57:27,198 - INFO - Application execution time: 0:00:00
+2024-03-11 11:57:27,245 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:57:27,245 - INFO - Application started at 2024-03-11 11:57:27.245670
+2024-03-11 11:57:27,245 - INFO - Display button clicked for state code: GA
+2024-03-11 11:57:27,266 - INFO - Executing SQL query for state code: GA
+2024-03-11 11:57:38,342 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:57:38,358 - INFO - Application started at 2024-03-11 11:57:38.342624
+2024-03-11 11:57:38,358 - INFO - Display button clicked for state code: GA
+2024-03-11 11:57:38,358 - INFO - Executing SQL query for state code: GA
+2024-03-11 11:57:40,498 - INFO - Executing total_bans query for state code: GA
+2024-03-11 11:57:49,520 - INFO - Executing total_bans query for state code: GA
+2024-03-11 11:58:06,890 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 11:58:06,890 - INFO - Application started at 2024-03-11 11:58:06.890380
+2024-03-11 11:58:06,890 - INFO - Application exited at 2024-03-11 11:58:06.890380
+2024-03-11 11:58:06,890 - INFO - Application execution time: 0:00:00
+2024-03-11 11:58:28,255 - INFO - Total bans data fetched for state code: GA
+2024-03-11 11:58:28,270 - INFO - Total bans displayed for state code: GA
+2024-03-11 11:58:28,270 - INFO - Data displayed for state code: GA
+2024-03-11 11:58:28,270 - INFO - Application exited at 2024-03-11 11:58:28.270899
+2024-03-11 11:58:28,270 - INFO - Application execution time: 0:01:01.025229
+2024-03-11 11:58:37,144 - INFO - Total bans data fetched for state code: GA
+2024-03-11 11:58:37,144 - INFO - Total bans displayed for state code: GA
+2024-03-11 11:58:37,144 - INFO - Data displayed for state code: GA
+2024-03-11 11:58:37,144 - INFO - Application exited at 2024-03-11 11:58:37.144771
+2024-03-11 11:58:37,144 - INFO - Application execution time: 0:00:58.802147
+2024-03-11 12:00:01,774 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 12:00:01,774 - INFO - Application started at 2024-03-11 12:00:01.774853
+2024-03-11 12:00:01,774 - INFO - Application exited at 2024-03-11 12:00:01.774853
+2024-03-11 12:00:01,774 - INFO - Application execution time: 0:00:00
+2024-03-11 12:00:01,821 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 12:00:01,821 - INFO - Application started at 2024-03-11 12:00:01.821857
+2024-03-11 12:00:01,837 - INFO - Display button clicked for state code: GA
+2024-03-11 12:00:01,837 - INFO - Executing SQL query for state code: GA
+2024-03-11 12:00:15,181 - INFO - Executing total_bans query for state code: GA
+2024-03-11 12:01:02,771 - INFO - Total bans data fetched for state code: GA
+2024-03-11 12:01:02,771 - INFO - Total bans displayed for state code: GA
+2024-03-11 12:01:02,771 - INFO - Data displayed for state code: GA
+2024-03-11 12:01:02,771 - INFO - Application exited at 2024-03-11 12:01:02.771996
+2024-03-11 12:01:02,771 - INFO - Application execution time: 0:01:00.950139
+2024-03-11 12:05:21,527 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 12:05:21,527 - INFO - Application started at 2024-03-11 12:05:21.527150
+2024-03-11 12:05:21,527 - INFO - Download button clicked for state code: GA
+2024-03-11 12:05:21,527 - INFO - Downloading data for state code: GA
+2024-03-11 12:10:08,113 - INFO - Data downloaded for state code: GA
+2024-03-11 12:10:08,113 - INFO - Application exited at 2024-03-11 12:10:08.113579
+2024-03-11 12:10:08,113 - INFO - Application execution time: 0:04:46.586429
+2024-03-11 12:52:19,503 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 12:52:19,503 - INFO - Application started at 2024-03-11 12:52:19.503296
+2024-03-11 12:52:19,518 - INFO - Application exited at 2024-03-11 12:52:19.518922
+2024-03-11 12:52:19,518 - INFO - Application execution time: 0:00:00.015626
+2024-03-11 12:52:22,337 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 12:52:22,337 - INFO - Application started at 2024-03-11 12:52:22.337735
+2024-03-11 12:52:22,342 - INFO - Application exited at 2024-03-11 12:52:22.342977
+2024-03-11 12:52:22,342 - INFO - Application execution time: 0:00:00.005242
+2024-03-11 12:52:23,734 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 12:52:23,734 - INFO - Application started at 2024-03-11 12:52:23.734401
+2024-03-11 12:52:23,750 - INFO - Application exited at 2024-03-11 12:52:23.750082
+2024-03-11 12:52:23,750 - INFO - Application execution time: 0:00:00.015681
+2024-03-11 13:29:00,748 - INFO - -------------------------------New Session ----------------------------------
+2024-03-11 13:29:00,750 - INFO - Application started at 2024-03-11 13:29:00.748820
+2024-03-11 13:29:00,750 - INFO - Application exited at 2024-03-11 13:29:00.750088
+2024-03-11 13:29:00,750 - INFO - Application execution time: 0:00:00.001268
